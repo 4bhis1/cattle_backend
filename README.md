@@ -19,7 +19,7 @@ A production-ready, feature-rich Node.js boilerplate with TypeScript, Express, a
 Run this command to create a new project called `my-app` (change `my-app` to your preferred name):
 
 \`\`\`bash
-git clone <your-repo-url> my-app && cd my-app && npm install && npm run setup
+git clone https://github.com/4bhis1/node-express-boilerplate.git my-app && cd my-app && npm install && npm run setup
 \`\`\`
 
 This will:
