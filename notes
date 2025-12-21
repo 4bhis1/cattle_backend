@@ -1,0 +1,73 @@
+docker run -p 2181:2181 zookeeper
+
+to run zookeeper
+
+docker run -p 9092:9092 -e KAFKA_ZOOKEEPER_CONNECT=http://localhost:2181 -e KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092 -e KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1 confluentinc/cp-kafka
+
+to run kafka on docker
+
+Finalized Milestone Plan & Timeline
+Total Estimated Time: ~138 hours
+Spreading this over 3-4 weeks would be ideal to maintain quality and avoid burnout.
+
+Milestone 1: Streak System & Login Fixes (7 hrs) – (1-2 Days)
+✅ Fix bug: Sometimes users can't see the login page.
+✅ Correct Streak on Popup & make a Streak component (6 hrs).
+✅ Use the Streak on Dashboard (1 hr).
+
+🔹 Release Milestone 1
+
+Milestone 2: API Fixes, Throttling & Submissions (28 hrs) – (4-5 Days)
+✅ Complete Encrypt & Decrypt DataType in Backend (2 hrs).
+✅ Fix API for submission & question fields using Pre & Post hooks (6 hrs).
+✅ Fix API issues on Dashboard (4 hrs).
+✅ Implement DOM change detection for "Submit" & correct it (10 hrs).
+✅ Introduce 20-second throttling if users repeatedly submit (6 hrs).
+
+Ensure tab closure stops throttling.
+🔹 Release Milestone 2
+
+Milestone 3: Rate Limiting, Streaks & Badges (25 hrs) – (5-6 Days)
+✅ Implement Rate Limiting for submission APIs (3 hrs).
+
+Learn all concepts of Rate Limiting.
+✅ Integrate Pre & Post Config for Mongoose (4 hrs).
+✅ Handle streak logic (4 hrs).
+✅ Show Streaks on Popup & Dashboard (4 hrs).
+✅ Work on badges system (10 hrs).
+Show badges on Dashboard.
+Proper images (2 hrs).
+Show modal when a user earns a badge (8 hrs).
+🔹 Release Milestone 3
+
+Milestone 4: Platform Integrations (18 hrs) – (3-4 Days)
+✅ Integrate CodeForces (CF) (6 hrs).
+✅ Integrate BFE.dev (BFE) (6 hrs).
+✅ Integrate HackerEarth (HE) (6 hrs).
+
+🔹 Release Milestone 4
+
+Milestone 5: Notification System (24 hrs) – (4-5 Days)
+✅ Implement Notification System (24 hrs).
+
+Learn notification concepts properly.
+Ensure smooth delivery & UI integration.
+🔹 Release Milestone 5
+
+Milestone 6: Search & Elasticsearch (30 hrs) – (5-6 Days)
+✅ Integrate Elasticsearch.
+✅ Show questions with search, table & pagination (30 hrs).
+
+🔹 Release Milestone 6
+
+Milestone 7: Payment Integration (10 hrs) – (1-2 Days)
+✅ Implement BuyMeACoffee payment feature (10 hrs).
+
+🔹 Final Release 🎉
+
+Estimated Timeline (3-4 Weeks Plan)
+Week 1: Milestone 1 & 2 (~35 hrs)
+Week 2: Milestone 3 & 4 (~43 hrs)
+Week 3: Milestone 5 & part of 6 (~50 hrs)
+Week 4: Finish Milestone 6 & 7 (~10 hrs)
+This plan balances workload while keeping efficiency high. 🚀 Let me know if you need adjustments!

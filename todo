@@ -1,0 +1,14 @@
+apis
+dashboard part 1. fetch all the questions solved
+filter /platform
+/difficulty
+/question-search
+sort / crreated
+/ updated
+skip
+limit
+
+    2. fetch user profil3
+      question solved today
+      difficulty
+      platform and their signs

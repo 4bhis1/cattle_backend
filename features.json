@@ -1,0 +1,20 @@
+{
+    "auth": {
+        "enabled": true,
+        "google": true,
+        "github": true,
+        "otp": false
+    },
+    "upload": {
+        "enabled": true,
+        "provider": "local"
+    },
+    "logging": {
+        "enabled": true,
+        "level": "info"
+    },
+    "email": {
+        "enabled": true,
+        "provider": "nodemailer"
+    }
+}
