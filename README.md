@@ -18,73 +18,83 @@ A production-ready, feature-rich Node.js boilerplate with TypeScript, Express, a
 
 Run this command to create a new project called `my-app` (change `my-app` to your preferred name):
 
-\`\`\`bash
+```bash
 git clone https://github.com/4bhis1/node-express-boilerplate.git my-app && cd my-app && npm install && npm run setup
-\`\`\`
+```
 
 This will:
+
 1. Clone the boilerplate.
 2. Install dependencies.
 3. specific **Project Name** & **Features**.
 4. Auto-remove the setup script from `package.json`.
 
 ### Manual Setup
+
 If you prefer manual steps:
+
 1. `git clone <repo-url> my-project`
 2. `cd my-project`
 3. `npm install`
 4. `npm run setup`
 
 ### 2. Start Development
-\`\`\`bash
+
+```bash
 npm run dev
-\`\`\`
+```
+
 Server will start at `http://localhost:8000`.
 
 ### 3. API Documentation
+
 Visit `http://localhost:8000/api-docs` to view the Swagger API documentation.
 
 ## 🛠️ Scaffolding
 
 Generate new modules (Controller, Service, Model, Routes) instantly:
 
-\`\`\`bash
+```bash
 npm run generate <module-name>
 # Example: npm run generate product
-\`\`\`
+```
 
 This will create `src/modules/product/` with all necessary files. Don't forget to register the routes in `src/routes/index.ts`.
 
 ## ⚙️ Configuration
 
 ### Features (`features.json`)
+
 Control your application modules without changing code:
-\`\`\`json
+
+```json
 {
   "auth": { "enabled": true, "google": false },
   "upload": { "enabled": true, "provider": "local" },
   "logging": { "enabled": true, "level": "info" }
 }
-\`\`\`
+```
 
 ### Environment (`.env`)
-\`\`\`env
+
+```env
 PORT=8000
 MONGO_URI=mongodb://localhost:27017/my-project
 JWT_SECRET=super-secret
 ...
-\`\`\`
+```
 
 ## 🧪 Testing
 
 Run integration tests:
-\`\`\`bash
+
+```bash
 npm test
-\`\`\`
+```
 
 ## 📂 Project Structure
 
-\`\`\`
+```
 src/
 ├── bin/          # CLI Scripts (Setup, Generate)
 ├── config/       # Configuration (Logger, Passport, Features)
@@ -96,7 +106,8 @@ src/
 ├── utils/        # Utilities (AppError, CatchAsync)
 ├── app.ts        # Express App Setup
 └── index.ts      # Entry Point
-\`\`\`
+```
 
 ## 📄 License
+
 ISC
