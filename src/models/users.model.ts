@@ -23,6 +23,7 @@ const schema = new Schema(
     profile_readme_sha: { type: String },
     fcm_notification: { type: Encrypt },
     badges: [{ type: "ObjectId", ref: "Badge" }],
+    organisation_id: { type: String, required: true },
   },
   { timestamps: true, toJSON: { virtuals: true } }
 );

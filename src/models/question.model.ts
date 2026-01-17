@@ -19,6 +19,7 @@ const questionSchema = new Schema(
       enum: ["LeetCode", "GFG", "CodeForces", "CodeChef", "HackerRank", "BFE"],
     },
     companies: [{ type: String, trim: true }], // Used for filtering
+    organisation_id: { type: String, required: true },
   },
   { timestamps: true, toJSON: { virtuals: true } }
 );

@@ -8,8 +8,9 @@ const handleCastErrorDB = (err: any) => {
 };
 
 const handleDuplicateFieldsDB = (err: any) => {
-    const value = err.errmsg.match(/(["'])(\\?.)*?\1/)[0];
-    const message = `Duplicate field value: ${value}. Please use another value!`;
+    logger.error('DUPLICATE KEY ERROR DETAILS:', err); // Added for debugging
+    const value = (err.errmsg || err.message || '').match(/(["'])(\\?.)*?\1/)?.[0];
+    const message = `Duplicate field value: ${value || 'unknown'}. Please use another value!`;
     return new AppError(message, 400);
 };
 

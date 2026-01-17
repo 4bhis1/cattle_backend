@@ -18,8 +18,11 @@ declare global {
     }
 }
 
+import User from '../models/users.model';
+import { setContextValue } from '../utils/context';
+
 export const protect = (optional: boolean = false) => {
-    return (req: Request, res: Response, next: NextFunction) => {
+    return async (req: Request, res: Response, next: NextFunction) => {
         // 1) Check if auth is enabled globally
         if (!features.auth.enabled) {
             if (!optional) {
@@ -46,8 +49,17 @@ export const protect = (optional: boolean = false) => {
         // 3) Verification token
         try {
             const decoded: any = authenticateToken(token);
-            req.user_id = decoded; // Ensure authenticateToken returns what we expect
-            req.user = { id: decoded }; // Mock user object for now, usually we fetch user from DB here
+            
+            const currentUser = await User.findById(decoded);
+            if (!currentUser) {
+                if (optional) return next();
+                return next(new AppError('The user belonging to this token no longer does not exist.', 401));
+            }
+
+            req.user_id = decoded; 
+            req.user = currentUser; 
+            setContextValue('user', currentUser);
+            
             next();
         } catch (err) {
             if (optional) return next();

@@ -7,6 +7,7 @@ const badgeSchema = new Schema(
     name: { type: String, required: true, trim: true },
     description: { type: String },
     threshold: { type: Number, required: true }, // No. of questions needed to earn this badge
+    organisation_id: { type: String, required: true },
   },
   { timestamps: true, toJSON: { virtuals: true } }
 );

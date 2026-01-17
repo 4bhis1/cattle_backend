@@ -1,8 +1,8 @@
 {
     "auth": {
-        "enabled": true,
-        "google": true,
-        "github": true,
+        "enabled": false,
+        "google": false,
+        "github": false,
         "otp": false
     },
     "upload": {

@@ -22,6 +22,7 @@ const schema = new Schema(
       // unique: true,
     },
     time_taken: String,
+    organisation_id: { type: String, required: true },
   },
   { timestamps: true, toJSON: { virtuals: true } }
 );

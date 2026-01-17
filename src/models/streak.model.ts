@@ -13,6 +13,7 @@ const streakSchema = new Schema(
     current_streak: { type: Number, default: 0 },
     longest_streak: { type: Number, default: 0 },
     last_submission_date: { type: Date },
+    organisation_id: { type: String, required: true },
   },
   { timestamps: true, toJSON: { virtuals: true } }
 );

@@ -13,6 +13,7 @@ const noteSchema = new Schema(
       required: true,
       trim: true,
     },
+    organisation_id: { type: String, required: true },
   },
   { timestamps: true, toJSON: { virtuals: true } }
 );
