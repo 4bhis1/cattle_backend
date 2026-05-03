@@ -3,6 +3,8 @@ import * as financeController from '../controllers/finance.controller';
 
 const router = express.Router();
 
+router.get('/analytics', financeController.getProfitLossAnalytics);
+
 router.route('/expenses')
     .get(financeController.getExpenses)
     .post(financeController.createExpense);

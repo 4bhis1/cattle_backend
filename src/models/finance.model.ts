@@ -1,15 +1,24 @@
 import mongoose, { Schema, Document } from 'mongoose';
 
 export interface IExpense extends Document {
-    expenseCategory: 'feed' | 'medicine' | 'veterinary' | 'labor' | 'electricity' | 'water' | 'maintenance' | 'equipment' | 'transport' | 'other';
+    expenseCategory: string;
+    group?: string;
     subcategory: string;
+    financialCategory?: string;
+    recordType?: 'expense' | 'income';
     description: string;
     amount: number;
+    quantity?: number;
+    rate?: number;
+    unit?: string;
+    weight?: number;
     date: Date;
-    paymentMethod: 'cash' | 'upi' | 'bank-transfer' | 'cheque' | 'card';
+    paymentMethod?: 'cash' | 'upi' | 'bank-transfer' | 'cheque' | 'card';
+    moneyPaidBy?: string;
     paidTo: string;
     billNumber: string;
     billImage?: string;
+    billAttachment?: string;
     relatedCattleId?: string;
     relatedTransactionId?: string;
     isRecurring: boolean;
@@ -21,15 +30,24 @@ export interface IExpense extends Document {
 }
 
 const ExpenseSchema: Schema = new Schema({
-    expenseCategory: { type: String, enum: ['feed', 'medicine', 'veterinary', 'labor', 'electricity', 'water', 'maintenance', 'equipment', 'transport', 'other'], required: true },
-    subcategory: { type: String },
+    expenseCategory: { type: String, required: true }, // Expenses Group
+    group: { type: String }, // Group (Col 6)
+    subcategory: { type: String }, // Sub Group
+    financialCategory: { type: String }, // For BS/P&L
+    recordType: { type: String, enum: ['expense', 'income'], default: 'expense' },
     description: { type: String, required: true },
     amount: { type: Number, required: true },
+    quantity: { type: Number },
+    rate: { type: Number },
+    unit: { type: String },
+    weight: { type: Number },
     date: { type: Date, required: true },
-    paymentMethod: { type: String, enum: ['cash', 'upi', 'bank-transfer', 'cheque', 'card'], required: true },
-    paidTo: { type: String },
+    paymentMethod: { type: String, enum: ['cash', 'upi', 'bank-transfer', 'cheque', 'card'], default: 'cash' },
+    moneyPaidBy: { type: String }, // User requested
+    paidTo: { type: String }, // Vendor Name
     billNumber: { type: String },
     billImage: { type: String },
+    billAttachment: { type: String }, // User requested (alias or additional)
     relatedCattleId: { type: String },
     relatedTransactionId: { type: String },
     isRecurring: { type: Boolean, default: false },

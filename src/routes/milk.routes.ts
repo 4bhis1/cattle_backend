@@ -10,6 +10,8 @@ router
 
 router.post('/bulk', milkController.bulkUpsertMilk);
 router.get('/daily', milkController.getDailyMilkRecords);
+router.get('/report', milkController.getMilkProductionReport);
+router.get('/analytics', milkController.getMilkAnalytics);
 
 router
     .route('/:id')
