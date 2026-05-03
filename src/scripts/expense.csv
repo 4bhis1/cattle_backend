@@ -1,0 +1,310 @@
+SNo	Date	Month	Year	BS	Expenses Group	Group	Sub Group	Bill Date	Vendor Name	Details-Description	Qty	KG	Feed KG	Rate	Amount
+	9/3/2025	Sep	2025	BS	Land Development		Soil	Bill No Nil		Soil Feeling 75 Tractor		75		220	16000
+	9/3/2025	Sep	2025	BS	Building Construction		Factory Gate	Bill No Nil	Nand Prakash	Steel Gate Making-Part Payment					10000
+	9/5/2025	Sep	2025	BS	Water Pump		Water Pump	Bill No Nil		Material					390
+	9/5/2025	Sep	2025	BS	Water Pump		Water Pump	Bill No Nil		Material					180
+	9/5/2025	Sep	2025	BS	Water Pump		Water Pump	Bill No Nil		Service Charge					300
+	9/5/2025	Sep	2025	BS	Electrical Installation		Light	Bill No Nil		Street Linght/Halogen		1		400	400
+	9/6/2025	Sep	2025	BS	Building Construction		Rasi	Bill No Nil		Rasi		1 KG			100
+	9/6/2025	Sep	2025	BS	Freight and Cartage		Loading	Bill No Nil		Tractor Bara-Freight					200
+	9/6/2025	Sep	2025	BS	Factory Shed		Wages	Bill No Nil		Labour  2 full day and 1 half day					1300
+	9/7/2025	Sep	2025	BS	Freight and Cartage		Freight and Cartage	Bill No Nil		Auto Fare					50
+	9/8/2025	Sep	2025	BS	Building Construction		Bricks	Bill No Nil		Bricks 2 Traior , 3000 Bricks		2		10500	21000
+	9/8/2025	Sep	2025	BS	Building Construction		Bricks	Bill No Nil		Bricks 2 Traior , Tukni Eta		2		4500	9000
+	9/8/2025	Sep	2025	BS	Building Construction		Loading/Unloading	Bill No Nil		Bricks-Loading/Unloading		4		100	400
+	9/8/2025	Sep	2025	BS	Land Development		Soil	Bill No Nil		Soil Leveling Charge		5		500	2500
+	9/9/2025	Sep	2025	BS	Factory Shed		Wages	Bill No Nil		Labour  Charge		3		500	1500
+	9/9/2025	Sep	2025	BS	Vehicls Running		Petrol	Bill No Nil		Petrol for Scooter					281
+	9/9/2025	Sep	2025	BS	Factory Shed		Nail	Bill No Nil		Kil/Nail					90
+	9/9/2025	Sep	2025	BS	Factory Shed		Rasi	Bill No Nil		Rasi-3.072kG					270
+	9/9/2025	Sep	2025	BS	Factory Shed		Plastic	Bill No Nil		Plastic					150
+	9/9/2025	Sep	2025	BS	Factory Shed		Steel Coil	Bill No Nil		Coil/Ring for Pillar support					380
+	9/10/2025	Sep	2025	BS	Building Construction		River Sand			River Sand 2 Trailor @ 4000		2		4000	8000
+	9/10/2025	Sep	2025	BS	Factory Shed		Roofing Shed			TATA Roofing Shed 14 Feet X 4 FeetX Thic  0.45mm		21		2000	42000
+	9/10/2025	Sep	2025	BS	Factory Shed		Roofing Shed			TATA Roofing Shed 12 Feet X 4 FeetX Thic  0.50mm		2		1500	3000
+	9/10/2025	Sep	2025	BS	Factory Shed		Roofing Shed			TATA Roofing Shed 12 Feet X 4 FeetX Thic  0.50mm		15		900	13500
+	9/10/2025	Sep	2025	BS	Building Construction		Cement			Cement 20 Bags Champian		20		328	6560
+	9/10/2025	Sep	2025	BS	Factory Shed		Roofing Shed			Misc  for shed					434
+	9/10/2025	Sep	2025	BS	Factory Shed		Wages			Wages Paid to Labour  for Shed Making					3000
+	9/11/2025	Sep	2025	BS	Repair and Maintainance		DG Set			Reparing of Old and Used Generator					1500
+	9/11/2025	Sep	2025	BS	Factory Shed		Pipe			Pipe Purchase 					5679
+	9/11/2025	Sep	2025	BS	Factory Shed		Wages			Labour Charge 					150
+	9/12/2025	Sep	2025	BS	Factory Shed		Claim			Shaeo Claimp 80 pcs washer		80			742
+	9/12/2025	Sep	2025	BS	Factory Shed		Pipe Socket			Pipe Socket 4 pics		4			260
+	9/12/2025	Sep	2025	BS	Factory Shed		Pipe Socket			Pipes Scoket Fittings					400
+	9/12/2025	Sep	2025	BS	Factory Shed		Wages			Wages Paid to Labour  for Shed Making					2000
+29	9/13/2025	Sep	2025	BS	Factory Shed		Nail			Nail -500gm  4 inch		0.5		90	45
+30	9/13/2025	Sep	2025	BS	Factory Shed		Nail			Nail -1 KG  2.5 Inch		1		90	90
+31	9/13/2025	Sep	2025	BS	Factory Shed		Rasi			Rasi					100
+32	9/13/2025	Sep	2025	BS	Factory Shed		Claim			Claim					182
+33	9/13/2025	Sep	2025	BS	Factory Shed		Wages			Labour Chare 4 Person		4		500	2000
+34	9/13/2025	Sep	2025	BS	Factory Shed		Rad Cutter			Rad Cutter		1			20
+35	9/15/2025	Sep	2025	BS	Factory Shed		Wages			Labour Chare 4 Person		4		500	2000
+36	9/16/2025	Sep	2025	BS	Factory Shed		Wages			Labour Chare 4 Person		4		500	2000
+37	9/16/2025	Sep	2025	BS	Factory Shed		Roofing Shed			Local Roofing Shed 14 Feet X 4 FeetX Thic  0.45mm		10		1000	10000
+38	9/16/2025	Sep	2025	BS	Factory Shed		Feright and Cartage	Bill No Nil		Auto Fare for Roofing shed  10 pics					150
+39	9/16/2025	Sep	2025	BS	Factory Shed		Nail			Nail -1 KG  2.5 Inch		1		95	95
+40	9/16/2025	Sep	2025	BS	Vehicls Running		Petrol			Petrol for Scooter					100
+41	9/14/2025	Sep	2025	BS	Building Construction		Wages			Labour Charge 2 Mistry+2 Labour - Gopal					2100
+44	9/15/2025	Sep	2025	BS	Building Construction		Wages			Labour Charge 2 Mistry+2 Labour - Gopal					2100
+44	9/16/2025	Sep	2025	BS	Building Construction		Wages			Labour Charge 2 Mistry+3 Labour- Gopal					2550
+43	9/17/2025	Sep	2025	BS	Factory Shed		Wages			Labour Charge					1000
+44	9/18/2025	Sep	2025	BS	Factory Shed		Nail			2.5" ka  1 KG Nail		1		95	95
+45	9/18/2025	Sep	2025	BS	Factory Shed		Wire			Rod Wire		1		90	90
+46	9/19/2025	Sep	2025	BS	Factory Shed		Wire			Rod Wire  1.31 kg		1.31		90	118
+47	9/19/2025	Sep	2025	BS	Factory Shed		Nail			2.00" ka  1 KG Nail		0.5		90	45
+48	9/19/2025	Sep	2025	BS	Factory Shed		Misc			Slif Bala 7kg 890		7.89		130	1025
+49	9/19/2025	Sep	2025	BS	Building Construction		Wages			Gopal Mistry					1000
+49	9/19/2025	Sep	2025	BS	Building Construction		Wages			Labour Charge - Gopal					850
+50	9/20/2025	Sep	2025	BS	Building Construction		Nipal			6" Nipla+Palak 65X3-195+ 45X3- 135					330
+51	9/20/2025	Sep	2025	BS	Building Construction		Wages			Paid to Gopal and Labour					8775
+52	9/22/2025	Sep	2025	BS	Land Development		Soil			Soil Leveling Charge- Wages					200
+53	9/22/2025	Sep	2025	BS	Vehicls Running		Petrol			Petrol for Scooter					220
+54	9/21/2025	Sep	2025	BS	Building Construction		River Sand			River Sand 2 Trailor @ 4000		1		4500	4500
+54	9/21/2025	Sep	2025	BS	Building Construction		Cement			Cement 20 Bags Champian		20		340	6800
+54	9/21/2025	Sep	2025	BS	Building Construction		Feright and Cartage			Loading of Cement					60
+55	9/23/2025	Sep	2025	BS	Factory Shed		Nail			2" Nail  250 gm					25
+56	9/23/2025	Sep	2025	BS	Land Development		Soil			JCB Soil Feeling 3.17 Hours @ Rs 1000					3170
+57	9/23/2025	Sep	2025	BS	Land Development		JCB - Leveling Charge			Soil 31 Tractor @ 200		31		200	6200
+58	9/24/2025	Sep	2025	BS	Building Construction		Window Net			400 F X 9 X 100=900					900
+59	9/24/2025	Sep	2025	BS	Building Construction		Nail			Chaisa kati 15X30					45
+60	9/24/2025	Sep	2025	BS	Tools		Tools			Water Spry Bottel					200
+61	9/24/2025	Sep	2025	BS	Vehicls Running		Petrol			Petrol for Scooter					360
+61	9/24/2025	Sep	2025	BS	Building Construction		Wages			Labour Charge - Gopal+Labour upto 24/09					9600
+62	9/26/2025	Sep	2025	BS	Building Construction		River Sand			River Sand 1 Tractor					4400
+63	9/26/2025	Sep	2025	BS	Building Construction		Cement			Cement 5 Bags		5		340	1700
+64	9/26/2025	Sep	2025	BS	Building Construction		Cement			Cement 6 Bags		6		340	2040
+65	9/27/2025	Sep	2025	BS	Building Construction		Bricks			Bricks - 1/2 Size		1		3000	3000
+66	9/27/2025	Sep	2025	BS	Building Construction		Feright and Cartage			Loading of Bricks					100
+67	9/27/2025	Sep	2025	BS	Building Construction		Cement			Cement 3 Bags		3		340	1020
+68	9/27/2025	Sep	2025	BS	Building Construction		River Sand			River Sand  20 Box		20		45	900
+69	9/27/2025	Sep	2025	BS	Building Construction		Cement			Cement 3 Bags		2		340	680
+70	9/27/2025	Sep	2025	BS	Building Construction		Feright and Cartage			Freight 					200
+71	9/29/2025	Sep	2025	BS	Building Construction		Wages			Labour Charge - Gopal+Labour upto 25/09 to 29/09					11200
+72	9/29/2025	Sep	2025	BS	Building Construction		Factory Gate	Bill No Nil	Nand Prakash	Steel Gate Making-Part Payment- Final Paymet					8595
+73	9/29/2025	Sep	2025	BS	Building Construction		Cement			Cement 1 Bags		1		340	340
+74	9/29/2025	Sep	2025	BS	Building Construction		Cement			Cement 1 Bags		1		340	340
+75	9/30/2025	Sep	2025	BS	Land Development		Wages			Labour Charge 2 X 450					900
+76	10/2/2025	Oct	2025	BS	Building Construction	Office Gate	Office Gate			Office Gate Wooden					4750
+77	10/2/2025	Oct	2025	BS	Freight and Cartage	Office Gate	Feright and Cartage			Auto Fare					100
+78	10/2/2025	Oct	2025	P&L	Feeding Material	P&L	Bhusa	Lot 1		Lot No 1 Bhusa Two Tralor					8000
+79	10/5/2025	Oct	2025	BS	Building Construction	Staff Room	Bricks			1 Trailor  Bricks					10600
+80	10/5/2025	Oct	2025	BS	Vehicls Running	Common	Petrol			Petrol for Scooter					220
+81	10/7/2025	Oct	2025	P&L	Feeding Material	P&L	Freight and Cartage-B	Lot 1		Lot No -1Tractor Bara-Freight for Bhusa					750
+82	10/3/2025	Oct	2025	BS	Building Construction	Staff Room	River Sand			River Sand 1 Tractor					4300
+82	10/3/2025	Oct	2025	BS	Building Construction	Staff Room	Cement			Cement Bags		7		340	2380
+82	10/3/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Wages					758
+83	10/7/2025	Oct	2025	BS	Building Construction	Office	Office Gate			Gate Fitting Charge					400
+84	10/7/2025	Oct	2025	BS	Electrical Installation	Staff Room	Electrical Installation			Electrical Material-Boad+Loght+Holder					3181
+85	10/7/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Wages 2 Days 6 and 7 Oct  1 M+2 Labour (450*2*2+700*2)					3200
+86	10/9/2025	Oct	2025	BS	Electrical Installation	Office	Electrical Installation			Paid to Electrician					500
+87	10/9/2025	Oct	2025	BS	Building Construction	Staff Room	Cement			Cement		3		330	990
+88	10/9/2025	Oct	2025	BS	Building Construction	Staff Room	Gate			Labour Room Gate					1500
+89	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Cement Albestus			Cement Albestus 8 Feet 					8900
+89	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Pipe			1 Pipes 20 Feet					
+89	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Steel Rod			Steel Rod  -3 Pcs					
+89	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Paint								
+89	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Thineer								
+89	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Misc								
+90	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	River Sand			River Sand					3645
+90	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Cement			Cement		8		340	2720
+90	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Loading/Unloading			Loading Chareg					150
+90	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Feright and Cartage			Feright and Cartage- Traitor Bara					175
+91	10/10/2025	Oct	2025	BS	Boundry Wall	Boundry Wall	Fancing Wire			Farming Boundry Wires 3 Boundle		3		950	2850
+92	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Nail			Nail-Kati 1/2 KG @ 90					45
+93	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Freight and Cartage			Loading Charge					60
+94	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Wire			Road Wire 310 Gm					27
+95	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Construction Labour Charge+1 Mistry+2 Labour 8th Oct					1600
+96	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Construction Labour Charge 2 Misrty +4 Labour 9th Oct 					3200
+97	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Construction Labour Charge 2 Misrty +4 Labour 10th Oct 					3200
+98	10/10/2025	Oct	2025	BS	Building Construction	Staff Room	Cement			Cement Due amount					40
+99	10/11/2025	Oct	2025	BS	Building Construction	Steel Rod	Office Room			Rod 2 KG 11.4  11.400X53.5-609.9					610
+100	10/11/2025	Oct	2025	BS	Building Construction	Office Room	Office Room			Junk rub paper 					10
+101	10/11/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Construction Labour Charge+1 Mistry+2 Labour 8th Oct					1600
+102	10/12/2025	Oct	2025	BS	Building Construction	Colour	Colour			Puti 1 KG					40
+103	10/12/2025	Oct	2025	BS	Building Construction	Colour	Colour			Puti Pati 20x2					40
+104	10/12/2025	Oct	2025	BS	Building Construction	Colour	Colour			Primer wood		1			240
+105	10/12/2025	Oct	2025	BS	Building Construction	Colour	Colour			Primer Red		1			240
+106	10/12/2025	Oct	2025	BS	Building Construction	Colour	Colour			Not Clear					1664
+107	10/12/2025	Oct	2025	BS	Building Construction	Colour	Colour			Putty  10 kg		10		36	360
+108	10/12/2025	Oct	2025	BS	Building Construction	Colour	Colour			Putty  40 kg		40		16.375	655
+109	10/13/2025	Oct	2025	P&L	Feeding Material	P&L	Bhusa	Lot 2		Lot No 2 Bhusa 1 pickup					3500
+110	10/13/2025	Oct	2025	P&L	Feeding Material	P&L	Freight and Cartage-B	Lot 2		Lot No 2Tractor Bara-Freight for Bhusa					600
+111	10/13/2025	Oct	2025	P&L	Feeding Material	P&L	Loading/Unloading-B	Lot 2		Lot No 2 Loading and Unloading					900
+112	10/13/2025	Oct	2025	BS	Building Construction	Colour	Colour			Wall Primer					670
+113	10/13/2025	Oct	2025	BS	Building Construction	Colour	Colour			Wall Rub Primer					45
+114	10/13/2025	Oct	2025	BS	Building Construction	Colour	Colour			Wall Puty 40 KG					630
+115	10/13/2025	Oct	2025	BS	Building Construction	Colour	Colour			wall Ring Bush					220
+116	10/13/2025	Oct	2025	BS	Building Construction	Colour	Colour			Wall Paint Bush					220
+117	10/13/2025	Oct	2025	BS	Building Construction	Colour	Colour			Panting  Charge					1200
+118	10/12/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Construction Labour Charge+1 Mistry+2 Labour 8th Oct					1600
+119	10/2/2025	Oct	2025	P&L	Feeding Material	P&L	Freight and Cartage-B	Lot 1		Lot No 1 Bhusa Loading and Undloading Charge 200x4					1000
+120	10/10/2025	Oct	2025	BS	Building Construction	Boudnry Wall _Pole	Boudnry Wall _Pole			Mis					300
+122	10/13/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Construction Labour Charge+1 Mistry+2 Labour 8th Oct					1600
+123	10/14/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Labour Charge 2 tow					900
+124	10/14/2025	Oct	2025	BS	Building Construction	Main Gate	Stone			Stone 110X5=550+					550
+125	10/14/2025	Oct	2025	BS	Building Construction	Main Gate	Cement			Cement 340*7 bags					2380
+126	10/14/2025	Oct	2025	BS	Building Construction	Main Gate	Misc			Gate Waser					25
+127	10/23/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Labour advance					1000
+128	10/23/2025	Oct	2025	BS	Building Construction	Staff Room	Wages			Labour Room socket bord					300
+129	10/23/2025	Oct	2025	BS	Building Construction	Boudnry Wall _Pole	Boudnry Wall _Pole			Boudry Wires Fixing Labour charge 200x2					400
+130	10/23/2025	Oct	2025	P&L	Feeding Material	P&L	Grass Seed			Grass Seed for Green Grass plantation					1560
+131	10/23/2025	Oct	2025	BS	Building Construction	Green Net	Green Net			Green Shed Net					2055
+132	10/23/2025	Oct	2025	BS	Tools	Steel -Cow Dung	Steel -Cow Dung			Gobar Utake ke lia tools					895
+133	10/23/2025	Oct	2025	BS	Rubber Mat	Rubber Mat	Rubber Mat			Rubber Mat for Cow		1		1	1573
+134	10/23/2025	Oct	2025	BS	Tools	Measuring Cylender	Measuring Cylender			Measuring Cylender					283
+135	10/23/2025	Oct	2025	BS	Rubber Mat	Rubber Mat	Rubber Mat			Rubber Mat for Cow					1583
+136	10/23/2025	Oct	2025	BS	Rubber Mat	Rubber Mat	Rubber Mat			Rubber Mat for Cow					1583
+137	10/23/2025	Oct	2025	BS	Rubber Mat	Rubber Mat	Rubber Mat			Rubber Mat for Cow					1583
+138	10/23/2025	Oct	2025	BS	Plant and Machinery	Grass Curring Machine	Grass Curring Machine			Grass Curring Machine					22832
+139	10/29/2025	Oct	2025	P&L-2	Cow	Cow-1	Basic Price			Cow Purchase With Femal Beby	1				48000
+139	10/29/2025	Oct	2025	P&L-2	Cow	Cow-1	Commission			Cow Purchase With Femal Beby-Commission					300
+139	10/29/2025	Oct	2025	P&L-2	Cow	Cow-1	Loading/Unloading			Cow Purchase With Femal Beby-Vehicls charge					800
+140	10/30/2025	Oct	2025	BS	Tools	Tools	Balti			Balti 1.790   250X 1.790					448
+141	10/30/2025	Oct	2025	BS	Tools	Milk Cane	Milk Cane			Dudh / Milk Cane Two Pices 1250X2   12 Ltrs		2		1250	2500
+142	10/30/2025	Oct	2025	BS	Tools	Milk Cane	Milk Cane			Dudh / Milk Cane Two Pices 40 Ltrs					4800
+143	10/30/2025	Oct	2025	BS	Building Construction	Plastiic	Plastiic			Plastic Material					950
+143	10/30/2025	Oct	2025	BS	Tools	Tools	Tools			Tagar+Milk Measuring+Henger+scrpe					580
+144	10/30/2025	Oct	2025	P&L	Feeding Material-2	P&L	Chokar			Chokar   44 kgs X 8 Bags	8	44	352	28.75	10120
+144	10/30/2025	Oct	2025	P&L	Feeding Material-2	P&L	Chokar			Chokar  32 kg	3	32	96	28.75	2760
+144	10/30/2025	Oct	2025	P&L	Feeding Material-2	P&L	Kapila			Kapila	1	34	34	33.82352941	1150
+144	10/30/2025	Oct	2025	P&L	Feeding Material-2	P&L	Freight and Cartage			Freight and Cartage					400
+145	10/27/2025	Oct	2025	P&L	Feeding Material-2	P&L	Misc Feeed			Chokar+kapila+dal					300
+146	10/31/2025	Oct	2025	BS	Tools	Tools	Plastic items			2 Plastic Tirpla+2 rig+rasi+umberela					1950
+147	11/1/2025	Nov	2025	P&L	Feeding Material-2	P&L	Misc Feeed			Uriya 2 KG					20
+148	11/1/2025	Nov	2025	P&L	Feeding Material-2	P&L	Mita			3 KG Gur					230
+149	11/2/2025	Nov	2025	P&L	Medicine	P&L	Medicine								60
+150	11/3/2025	Nov	2025	P&L-2	Cow	Cow-2	Advance			Advance Rs 5000 paid					0
+152	11/3/2025	Nov	2025	P&L	Staff Welfare	Staff Welfare	Staff Welfare			Petrol+Khana					1260
+153	11/4/2025	Nov	2025	P&L	Medicine	Medicine	Medicine			Cow Liquid Medicine					207
+154	11/6/2025	Nov	2025	P&L-2	Cow	Cow-2	Loading/Unloading			Pickup Loading Charge-Freight					4500
+155	11/6/2025	Nov	2025	P&L-2	Cow	Cow-2	Police Charge			Police Charge					100
+156	11/6/2025	Nov	2025	P&L-2	Cow	Cow-2	Tol Charge			Tol Charge					150
+157	11/6/2025	Nov	2025	P&L-2	Cow	Cow-2	Basic Price			Cow-2 Basic Price  (adv rs 5000 paid o 3/11	1				83500
+157	11/6/2025	Nov	2025	P&L-2	Cow	Cow-2	Basic Price			Cow-3 Basic Price	1				83500
+158	11/6/2025	Nov	2025	P&L	Feeding Material-2	P&L	Chokar			Chokar 5 Bags @ 1350	5	50	250	1350	6750
+158	11/6/2025	Nov	2025	P&L	Feeding Material-2	P&L	Kapila			Kapila  5 Bags @ 1350	5	34	170	1080	5400
+159	11/6/2025	Nov	2025	P&L	Staff Welfare	Staff Welfare	Staff Welfare			Khana+Tea+Water+Petrol					2150
+160	11/6/2025	Nov	2025	BS	Building Construction	Staff Room+Others	Bricks			Bricks 1 Trailor					10600
+161	11/6/2025	Nov	2025	BS	Building Construction	Staff Room+Others	Cement			Cement 7 bags @ 320		7		320	2240
+162	11/6/2025	Nov	2025	BS	Building Construction	Staff Room+Others	Sand			Sand 1 Trailor 82X45+150labor +250 tractor freight					4090
+163	11/6/2025	Nov	2025	BS	Building Construction	Staff Room+Others	Wages			1 Mistry 700+2 Labour 2X 450					1600
+164	11/7/2025	Nov	2025	BS	Building Construction	Staff Room+Others	Wages			1 Mistry 700+2 Labour 2X 450					1600
+165	11/9/2025	Nov	2025	P&L	Wages	P&L	Wages			Advance Rs 5000 paid to Bisnath Prasad					5000
+166	11/9/2025	Nov	2025	P&L	Feeding Material-2	P&L	Misc			Mita +Dal					130
+167	11/8/2025	Nov	2025	P&L	Operative Expenses	P&L	Misc			Rassi 1kg					80
+168	11/8/2025	Nov	2025	P&L	Operative Expenses	P&L	Misc			Lohban and Kayal					50
+169	11/8/2025	Nov	2025	BS	Tools	Tools	Tools			Katra 1 X 150		2		150	300
+170	11/8/2025	Nov	2025	BS	Tools	Tools	Mat			Rubber Mat for Cow   from Manish Enterprises Patna		6		3100	18600
+170	11/8/2025	Nov	2025	BS	Tools	Tools	Misc			Misc Tools items 					1320
+170	11/8/2025	Nov	2025	BS	Tools	Tools	Freight and Cartage			Freight Ffom Patna to Chakia					1600
+171	11/8/2025	Nov	2025	P&L	Vehicls Running	P&L	Petrol			Petrol					560
+172	11/8/2025	Nov	2025	P&L	Staff Welfare	P&L	Staff Welfare			Fooding Expenses 260+180					260
+173	11/8/2025	Nov	2025	P&L	Staff Welfare	P&L	Staff Welfare			Fooding Expenses 260+180					180
+174	11/8/2025	Nov	2025	P&L	Operative Expenses	P&L	Misc			Mandip					850
+175	11/8/2025	Nov	2025	P&L	Vehicls Running	P&L	Petrol			Petrol in bike					220
+176	11/10/2025	Nov	2025	P&L	Feeding Material	P&L	Pora			Pora					125
+177	11/10/2025	Nov	2025	P&L	Feeding Material	P&L	Freight and Cartage-P			Pickup Bara					350
+178	11/10/2025	Nov	2025	P&L	Feeding Material	P&L	Freight and Cartage			Auto Bara					100
+179	11/10/2025	Nov	2025	P&L	Feeding Material	P&L	Wages			Labour charge					50
+182	11/10/2025	Nov	2025	P&L	Feeding Material	P&L	Pora			Pora					100
+183	11/12/2025	Nov	2025	BS	Tools	Tools	Kata			Weight Machjine /kata 100 kg					3600
+184	11/11/2025	Nov	2025	BS	Misc	Misc	Misc			wire+ss 					600
+185	11/11/2025	Nov	2025	P&L	Operative Expenses	Misc	Repar and Maintainance			Paid Electrician					350
+186	11/12/2025	Nov	2025	P&L	Feeding Material-2	P&L	Dal			Dal 74X 30		74	74	30	2220
+187	11/12/2025	Nov	2025	P&L	Feeding Material-2	P&L	Mita			Mitha 45 X 31		45	45	31	1395
+188	11/12/2025	Nov	2025	BS	Building Construction	Staff Room+Others	Wages			1 Mistry 700+2 Labour 2X 450					1600
+189	11/12/2025	Nov	2025	P&L	Operative Expenses	P&L	Misc			Laxman Rekha					40
+190	11/12/2025	Nov	2025	BS	Building Construction	Staff Room+Others	Cement			Cement 1 Bags		1		310	310
+190	11/12/2025	Nov	2025	BS	Rubber Mat	Rubber Mat	Rubber Mat			Online Order Cancelled					-1573
+190	11/12/2025	Nov	2025	BS	Rubber Mat	Rubber Mat	Rubber Mat			Online Order Cancelled					-1583
+190	11/12/2025	Nov	2025	BS	Rubber Mat	Rubber Mat	Rubber Mat			Online Order Cancelled					-1583
+191	11/13/2025	Nov	2025	P&L	Feeding Material	P&L	Pora			Pora					600
+192	11/13/2025	Nov	2025	P&L	Feeding Material	P&L	Freight and Cartage-P			Pickup Charge					350
+193	11/12/2025	Nov	2025	P&L	Staff Welfare	P&L	Staff Welfare			LPG Cylender 1 					953
+194	11/15/2025	Nov	2025	P&L	Operative Expenses	P&L	Misc			Mount Rotate					501
+195	11/16/2025	Nov	2025	P&L	Feeding Material	P&L	Pora			Pora  2 pickup					1500
+196	11/16/2025	Nov	2025	P&L	Feeding Material	P&L	Pora			Pickup 1 pickup					500
+197	11/16/2025	Nov	2025	P&L	Feeding Material	P&L	Freight and Cartage-P			Picup Bara 350x3					1050
+198	11/15/2025	Nov	2025	P&L	Vehicls Running	P&L	Petrol			Petrol					560
+199	11/15/2025	Nov	2025	P&L	Medicine	P&L	Medicine			Medicine for cow  Sanjeevni gold					345
+200	11/16/2025	Nov	2025	P&L	Feeding Material	P&L	Freight and Cartage-P			Picup Bara 350x7					2450
+201	11/16/2025	Nov	2025	P&L	Feeding Material	P&L	Freight and Cartage-P			Pora Medicine 52X 20					1040
+202	11/17/2025	Nov	2025	P&L	Feeding Material	P&L	Freight and Cartage-P			Tractor Bara  2 X 500					1000
+203	11/18/2025	Nov	2025	P&L	Operative Expenses	P&L	Oil			Muster Oil 1 Ltrs					185
+204	11/18/2025	Nov	2025	P&L	Feeding Material	P&L	Loading/Unloading-P			Loading Charge 100X 12					1200
+205	11/18/2025	Nov	2025	P&L	Feeding Material	P&L	Pora			Pora					1500
+206	11/18/2025	Nov	2025	P&L	Feeding Material	P&L	Pora			Pora					500
+207	11/18/2025	Nov	2025	P&L	Feeding Material	P&L	Pora			Pora					400
+208	11/18/2025	Nov	2025	BS	Building Construction	Staff Room+Others	Wages			Wooden Takta Charge					2000
+209	11/21/2025	Nov	2025	BS	Tools	Tools	Bartan			50 KG Bartan  For Feed Kaming					3440
+210	11/19/2025	Nov	2025	P&L	Vehicls Running	P&L	Petrol			Petrol in bike					260
+211	11/23/2025	Nov	2025	P&L	Vehicls Running	P&L	Petrol			Petrol in bike					260
+212	11/21/2025	Nov	2025	P&L	Printing and Stationery	P&L	Printing and Stationery			Register					240
+213	11/19/2025	Nov	2025	P&L	Operative Expenses	P&L	Wages			Paid to Mistry					300
+214	11/20/2025	Nov	2025	P&L	Operative Expenses	P&L	Misc			Cron Ratl					720
+215	11/20/2025	Nov	2025	P&L	Feeding Material	P&L	Pora			Dana Pasai					110
+216	11/22/2025	Nov	2025	P&L	Feeding Material	P&L	Misc			Cow Masala for Cow-2					500
+217	11/3/2025	Nov	2025	P&L	Feeding Material	P&L	Wheet			Wheet 115 X 20					2300
+218	11/29/2025	Nov	2025	P&L	Operative Expenses	P&L	Oil			Muster Oil 1 Ltrs					195
+219	11/30/2025	Nov	2025	P&L	Vehicls Running	P&L	Petrol			Petrol in bike					220
+220	11/30/2025	Nov	2025	P&L	Operative Expenses	P&L	Misc			Peniel Botel					72
+221	12/1/2025	Dec	2025	P&L	Operative Expenses	P&L	Misc			Coconut Oil					42
+222	10/9/2025	Oct	2025	P&L	Consultancy Charge	P&L	Fees			Doctor Visit Fees					300
+223	12/3/2025	Dec	2025	P&L	Feeding Material-2	P&L	Gur			Gur Mita 40 X 26.4			26.4	40	1056
+224	12/3/2025	Dec	2025	P&L	Feeding Material-2	P&L	Dal			Dal 23.3 KG X 66			23.3	66	1530
+225	12/3/2025	Dec	2025	P&L	Operative Expenses	P&L	Misc			Rubber					40
+226	12/4/2025	Dec	2025	P&L	Feeding Material	P&L	Lakri			Lakri Cutting  Charge					1200
+227	12/3/2025	Dec	2025	P&L	Feeding Material	P&L	Rice			Rice 14 KG 			14	15	210
+228	12/4/2025	Dec	2025	BS	Electrical Installation	BS	Electrical Installation			Electric Wire+2 Light+Misc					1675
+229	12/1/2025	Dec	2025	P&L	Printing and Stationery	P&L	Pen			Pen Purchase					30
+230	12/1/2025	Dec	2025	P&L	Wages	P&L	Wages			Wages Paid to Bisnath					10000
+231	12/1/2025	Dec	2025	P&L	Wages	P&L	Wages			Wages Paid to Raj Kumar					800
+232	11/3/2025	Nov	2025	P&L	Operative Expenses	P&L	Wire			Wire Tap					15
+233	12/1/2025	Dec	2025	P&L	Operative Expenses	P&L	Powder			Powder 65					65
+234	11/26/2025	Nov	2025	P&L	Vehicls Running	P&L	Petrol			Petrol in bike					360
+235	12/3/2025	Dec	2025	P&L	Vehicls Running	P&L	Petrol			Petrol in bike					230
+236	12/7/2025	Dec	2025	P&L	Operative Expenses	P&L	Mics Items			Bartan Clenar					75
+237	12/8/2025	Dec	2025	P&L	Electrical Installation	BS	Electrical Installation			Bulb + Holder					380
+238	12/11/2025	Dec	2025	P&L	Operative Expenses	P&L	Mics Items			Pipe Jointer					70
+239	12/11/2025	Dec	2025	P&L	Wages	P&L	Wages			Wages Paid to Bisnath					500
+240	12/9/2025	Dec	2025	P&L	Operative Expenses	P&L	Mics Items			Sharp Blade					25
+241	12/12/2025	Dec	2025	P&L	Operative Expenses	P&L	Mics Items								327
+242	12/12/2025	Dec	2025	P&L	Wages	P&L	Wages			Wages Paid to Rajkumar					500
+243	12/12/2025	Dec	2025	P&L	Wages	P&L	Wages			Wages Paid to Rajkumar					6000
+244	12/12/2025	Dec	2025	P&L	Wages	P&L	Wages			Wages Paid to Bisnath					5000
+245	12/12/2025	Dec	2025	P&L	Operative Expenses	P&L	Tools			Alu Bucket -2 pcas @ 120/KG+Chuna+sinner					560
+246	12/12/2025	Dec	2025	P&L	Travelling Charge	P&L	Travelling Charge			Car Parking Charge at Sonpur 					100
+247	12/11/2025	Dec	2025	P&L	Travelling Charge	P&L	Travelling Charge			Petrol 210 KM X 10					2100
+248	12/11/2025	Dec	2025	P&L	Travelling Charge	P&L	Travelling Charge			Tol Charge  60+30					90
+249	12/11/2025	Dec	2025	P&L	Staff Welfare	P&L	Staff Welfare			Inner Wear for Staff					300
+250	12/11/2025	Dec	2025	P&L	Repair and Maintainance	P&L	Hand Pump			Hand Pump Reparing Charge					200
+251	12/11/2025	Dec	2025	P&L	Repair and Maintainance	P&L	Hand Pump			Material for Hand Pump					100
+252	12/12/2025	Dec	2025	P&L	Feeding Material	P&L	Weat			Weat 114 kg X 15			114	15	1710
+253	12/12/2025	Dec	2025	P&L	Feeding Material	P&L	Masala			Masala					500
+254	12/12/2025	Dec	2025	P&L	Feeding Material	P&L	Misc			Wheat pasai					80
+255	12/18/2025	Dec	2025	P&L	Vehicls Running	P&L	Petrol			Petrol					500
+256	12/19/2025	Dec	2025	P&L	Vehicls Running	P&L	Petrol			Petrol					300
+257	12/22/2025	Dec	2025	P&L	Medicine	P&L	Medicine			Jerout Medicine					95
+258	12/23/2025	Dec	2025	P&L	Vehicls Running	P&L	Petrol			Petrol					300
+259	1/2/2026	Jan	2026	P&L	Staff Welfare	P&L	LPG  Gas			LPG  Gas					952
+260	1/2/2026	Jan	2026	P&L	Feeding Material	P&L	Namak			Namak					200
+261	1/2/2026	Jan	2026	P&L	Feeding Material	P&L	Mith/Gur			Mith/Gur   32.7*41		32.7		41	1340
+262	1/2/2026	Jan	2026	P&L	Feeding Material	P&L	Dal			Dal  66 KG X 30		66		30	0
+263	1/2/2026	Jan	2026	P&L	Vehicls Running	P&L	Petrol			Petrol					500
+264	1/3/2026	Jan	2026	P&L	Wages	P&L	Wages			Wages to Raj Kumar 					2500
+265	12/29/2026	Dec	2026	P&L	Wages	P&L	Wages			Wages to Bisnath Bhagat					4000
+266	1/3/2026	Jan	2026	P&L	Wages	P&L	Wages			Wages to Bisnath Bhagat					6000
+267	1/4/2026	Jan	2026	P&L	Medicine	P&L	Medicine			Kalsakti 265					265
+268	1/4/2026	Jan	2026	P&L	Medicine	P&L	Medicine			Sanjeev Ni Gold					690
+269	1/4/2026	Jan	2026	P&L	Medicine	P&L	Medicine			Milk -O- Feeti 1 Kg					225
+270	1/4/2026	Jan	2026	P&L	Medicine	P&L	Medicine			Jerout Colin 500 ml					95
+271	1/4/2026	Jan	2026	P&L	Medicine	P&L	Medicine			Snli Liver Items 500 ml					100
+272	1/4/2026	Jan	2026	P&L	Medicine	P&L	Medicine			Milk -O- Feeti 5 Kg					1250
+273	1/6/2026	Jan	2026	P&L	Misc	P&L	Misc			Bartan washer					60
+274	1/7/2026	Jan	2026	BS	Security  Money Deposite	BS	Security  Money Deposite			Deposited with Bapudham Dairy  Motihari					28000
+275	1/7/2026	Jan	2026	P&L	Medicine	P&L	Seamen Cow-1			Seamen Loding Cow-1					250
+276	1/13/2026	Jan	2026	P&L	Feeding Material-2	P&L	Maa Dairy Feed-Feed			Maa Dairy Feed 50 KG @ 1600 X 5	5	50	250	1600	8000
+277	1/13/2026	Jan	2026	P&L	Feeding Material-2	P&L	Maa Dairy Feed-Freight			Maa Dairy Feed 50 KG X 5 Bags Transportation Charge					800
+278	1/13/2026	Jan	2026	P&L	Power & Fuel	P&L	Electric Bills Recharge			Electric Bills Recharge  					500
+279	12/27/2025	Dec	2025	P&L	Power & Fuel	P&L	Electric Bills Recharge			Electric Bills Recharge					500

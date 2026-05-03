@@ -5,7 +5,6 @@ export interface IExpense extends Document {
     group?: string;
     subcategory: string;
     financialCategory?: string;
-    recordType?: 'expense' | 'income';
     description: string;
     amount: number;
     quantity?: number;
@@ -34,7 +33,6 @@ const ExpenseSchema: Schema = new Schema({
     group: { type: String }, // Group (Col 6)
     subcategory: { type: String }, // Sub Group
     financialCategory: { type: String }, // For BS/P&L
-    recordType: { type: String, enum: ['expense', 'income'], default: 'expense' },
     description: { type: String, required: true },
     amount: { type: Number, required: true },
     quantity: { type: Number },

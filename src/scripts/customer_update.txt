@@ -1,0 +1,16 @@
+Shop-Ashok Ji	  1,137.96 	35.00
+Customer-1 Shivam	  3.00 	50.00
+Customer-2 Balinder Rai	  2.00 	50.00
+Customer-2 Vickey	2.00	50.00
+Customer-3 Esad Chicket Shop	  63.00 	50.00
+Customer-4 Ankit	  41.00 	40.00
+Customer-5 KC Shekhar	  60.11 	50.00
+Customer-6 Balinder	  32.00 	50.00
+Sudha Sale Point-Manshi	  122.95 	31.33
+Lakhinder	  15.00 	50.00
+Sudha Sale Point-Bisunpur	  664.10 	38.54
+Consumption at Farm	  37.31 	0.00
+Prabhu Patel	  15.50 	
+Krishn Mohan Patel	  12.50 	
+Vickey	  9.00 	50.00
+Niraj Kumar	  7.00 	50.00
